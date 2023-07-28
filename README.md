@@ -1,1 +1,1 @@
-# FreeCodeCamp_Palindrome_Checker
+# JavaScript Algorithms and Data Structures Projects
