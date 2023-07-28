@@ -29,7 +29,7 @@ function convertToRoman(num) {
     }
   
     return romanStr;
-  }
-  
-  console.log(convertToRoman(36)); // Output: "XXXVI"
+}
+
+console.log(convertToRoman(36)); // Output: "XXXVI"
   

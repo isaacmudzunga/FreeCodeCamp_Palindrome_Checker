@@ -9,7 +9,5 @@ function palindrome(str) {
       }
     }
     return true;
-  
-  }
-  
-  palindrome("eye");
+}
+palindrome("eye");
